@@ -1,8 +1,8 @@
-#########################################################
+######################################################################
 #This doc it's used for writing starter pack plugin, when used       #
-# by default for blog and website powered by wordpress!               #
-#########################################################
-#
+# by default for blog and website powered by wordpress!              #
+##############################################################################################
+#       
 #
 #Akismet :
 #Using for anti-spam comment in wordpress.
@@ -26,4 +26,4 @@
 #Create a custom cache for your website.
 #
 #
-
+#################################################################################################
