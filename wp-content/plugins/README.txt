@@ -4,26 +4,26 @@
 #########################################################
 #
 #
-#Akismet :
+#*Akismet :
 #Using for anti-spam comment in wordpress.
-#aryo-activity-log:
+#*aryo-activity-log:
 #Create automatically a log activity
-#backwpup:
+#*backwpup:
 #Create a custom backup for directory website.
-#floating-social-bar:
+#*floating-social-bar:
 #Install some share buttons for your page.
-#google-analytics-for-wordpress:
+#*google-analytics-for-wordpress:
 #Create a analysis statistics your site
-#jetpack:
+#*jetpack:
 #Optimizes your site, with some functions, for exemple, imagens, security, any more.
-#login-customizer:
+#*login-customizer:
 #Create a customizer layout login forms.
-#wordfence:
+#*wordfence:
 #Protect your website, by hack attack.
-#wordpress-seo:
+#*wordpress-seo:
 #Search engine optimization.
-#wp-super-cache:
+#*wp-super-cache:
 #Create a custom cache for your website.
-#
-#
+#*Custom CSS:
+#Create a custom style for css.
 
